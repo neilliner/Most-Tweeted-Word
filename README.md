@@ -7,6 +7,9 @@ This web application gives opportinity for any curious audiences to compare betw
 ## Technology
 HTML, CSS, JavaScript, P5.js, Node.js, Arduino, Twitter API
 
+## Arduino Firmware
+Standard Firmata
+
 ### Special Thanks
 
 [Mark Hellar](https://github.com/mhellar)
