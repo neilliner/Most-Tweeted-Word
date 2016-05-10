@@ -8,12 +8,12 @@ This web application gives opportinity for any curious audiences to compare betw
 HTML, CSS, JavaScript, P5.js, Node.js, Arduino, Twitter API
 
 ## Hardware Requirements
-*Arduino Uno
-*Bread Board
-*Potentiometer
-*Button
-*Vibration Sensor
-*Jumper Wires
+* Arduino Uno
+* Bread Board
+* Potentiometer
+* Button
+* Vibration Sensor
+* Jumper Wires
 
 ## Arduino Firmware
 Standard Firmata
